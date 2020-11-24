@@ -1,0 +1,8 @@
+Star Wars Mini Game
+
+My game reflects the Coronavirus visually through the use of the different characters: “masked” stormtroopers, “unmasked” rebels, and the mynocks as a visual representation of the virus and its ability to multiply. The player controls the droid as a carrier of the virus. The stormtroopers are unaffected by the virus, but the rebels are susceptible. Any rebel who is infected spawns two mynocks. If the droid comes into contact with all the spawned mynocks before getting to the rebels, the “virus” dies out and the player loses. If the player manages to infect all the rebels beforehand, the player wins. 
+
+The available game mechanics led me towards having the player control the virus rather than a person. I also wanted to make the droid invisible to express the invisibility of the virus, but I found that it made the game too difficult to play. As a result, the presence of the droid fits somewhat clunkily into the analogy. Further, my game misleadingly suggests that masks are a foolproof way to avoid infection even without social distancing. In this case the limitations of the software make a more nuanced understanding of the pandemic harder to express.
+
+
+Copyright Bryan Christman, CC by 4.0 

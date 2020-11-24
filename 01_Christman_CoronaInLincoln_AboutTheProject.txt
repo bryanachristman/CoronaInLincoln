@@ -1,0 +1,7 @@
+About the Project
+
+This website examines the impact of the Coronavirus pandemic on the city of Lincoln, Nebraska and the campus of the University of Nebraska-Lincoln. Rather than re-creating the macro level view of the pandemic presented in the media, this site instead aims to represent my own limited experience as a student navigating the local area and thinking about the encoded meaning of the environment through the lens of Digital Humanities. 
+
+By drawing on the methodology of DH, this site aims to represent an iterative process of observation and reflection, comparative analysis of tools, and documentation via photography and spatial narrative. The contents of the website are structured in a modular fashion, beginning with reports that focus on the central location of the UNL campus before expanding to the larger area of Downtown Lincoln. The last group of reports provides additional context by summarizing research into local history and digital project maintenance and narrating the process of building this website. As an added bonus, a Star Wars mini game provides a different way of looking at the pandemic. 
+
+Copyright Bryan Christman, CC by 4.0

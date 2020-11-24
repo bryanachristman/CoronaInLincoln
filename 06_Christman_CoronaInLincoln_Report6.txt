@@ -1,0 +1,11 @@
+Report #6: Spatial Narrative of Downtown Lincoln
+
+Pen and Paper
+
+This hand-drawn map depicts the area of downtown Lincoln where I made my observations, centered around 12th, 13th, P, and Q streets. The orange line indicates the route I took, and the stars indicate places where I stopped to take photos (see the map with photos below). I included this hand-drawn version of downtown Lincoln to emphasize my own conceptual map of the area. The locations, buildings, and business that are most prominent in my conceptual map are the ones that I chose to include in my pen and paper version. As a result, the map conveys how I might subjectively view the space in my everyday movement through the city and is contrasted to the more standardized map that is used below. However, this interpretation of the city is still very much influenced by standardized maps as evidenced by the top down view. It also primarily depicts my personal experience of the city rather than the focused observations I completed through the lens of the assignment.
+
+Photo Documentation and GeoJSON
+
+GeoJSON displays my photos as points on an interactive street map of downtown Lincoln. The route I took through the city is indicated by the green line, and clicking on any of the points displays the photo and the associated metadata. If you look at each of the photos in order, you follow a circular route through the city (i.e. you end up where you started). You also see the effects of the passage of time, as the last photo is the same chalk graphic as the first photo, but it has become faded after a few weeks. The map allows you to situate the pictures within the broader space of the city of Lincoln, showing that my observations were confined to a relatively small, specific section of the city. The map also reveals many other businesses that are not part of my hand-drawn map, resulting in a more standardized view of the city.
+
+Copyright Bryan Christman, CC by 4.0

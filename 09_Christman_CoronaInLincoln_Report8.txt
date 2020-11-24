@@ -1,0 +1,79 @@
+Managing 100 Digital Humanities Projects (King’s Digital Lab, King’s College London)
+
+Problems of sustainability and maintenance for DH legacy projects from 90s/2000s
+
+Some DH projects are also security risks for institutional networks
+
+General Solutions:
+
+raising awareness of issues
+evolving management of DH infrastructure
+attention to full lifecycle of projects
+inventive approaches to funding
+Solutions must be specified to local environment, financial and operational issues, and inherent entropy of digital infrastructure
+
+Engineering of digital infrastructure is a problem that is “technical, political, economic, and human” (see Alvarado’s concept of operationalization)
+
+Security issues: need for up to date and regularly patched servers and code
+
+Funding issues: funding is often not extended to long-term maintenance of sites
+
+Influence of 90s cyber-utopianism with its assumption of cheap and easy to maintain electronic media
+Ideological bias of tech industry towards novelty rather than preservation
+Suggestion to “embed archiving and maintenance deep into the culture of technical development”
+Software issues: need to be prepared for rapid development of software technology, as well as economic/political concerns and inherent entropy of software systems
+
+Coordinate maintenance of software with maintenance of hardware
+Maintenance and longevity should be considered from a project’s start and acknowledged in grant application budgets, etc.
+
+Not all projects should be permanent; some are better as short-term projects
+Archiving and digital curation: evaluating digital objects based on relatively subjective criteria of scholarly importance as well as technical concerns and costs
+
+preservation of defunct websites through archiving 
+wide range of archival techniques/solutions are needed
+maintenance and archiving is an iterative, continuous process
+
+
+The Future of Your Data (video lecture by Jessica Dussault)
+
+Why Nothing Lasts Forever
+
+1. Hardware
+Limitations: storage devices could be lost, destroyed, or degrade over time
+Mitigation: back up to different devices/cloud services, organize and migrate files every few years, use checksum files
+
+2. Software
+Limitations: can’t open file formats, can’t run scripts, websites can break
+Mitigation: Redo with new technology and/or upgrade existing technology, try to find out how it originally worked
+
+3. Providers
+Limitations: Unexpected expenses, company might go out of business, changes to regulations/policies, malicious actors, products or services get retired
+Mitigation: plan ahead, be aware of emails/correspondence, keep another copy of your data
+
+4. Humans
+Limitations: the original developer may be gone, no instructions are left, not enough knowledge to fix/redo
+Mitigation: write everything down/keep organized, choose commonly used tech, plan ahead
+
+Planning Your Digital Project’s Life
+
+1. Before starting:
+What’s the “minimum viable” product? (bare-bone necessities)
+Choose or create standards: metadata, filenames, organization, scanning resolution/photo quality/etc.
+
+2. Identify collaborators (organizations, people), determine roles, methods of communication, how to credit everyone
+
+3. Set up documentation and issue tracking, way to keep track of to-do items
+
+4. Choose tech carefully
+Is it widely used and supported?
+How much maintenance is needed?
+Can someone be easily trained to use it?
+Where will data be stored, inside or outside the system?
+does it accommodate plain text/non-proprietary formats?
+
+5. Consider current and future expenses: website/file hosting, wages, software purchases
+
+6. Make plans for the future: will the project “end”? What if you need to modify or take something down? What if the site stops working?
+
+
+Copyright Bryan Christman, CC by 4.0
